@@ -1,0 +1,80 @@
+/* Aperçu de scénario */
+"scenario_preview.today" = "Aujourd'hui";
+"scenario_preview.active_now" = "En ligne";
+
+/* Liste de scénarios */
+"scenario_list.empty_state.title" = "Pas encore de conversations";
+"scenario_list.empty_state.subtitle" = "Commencez en créant votre première conversation.";
+"scenario_list.empty_state.button.title" = "Créer une conversation";
+"scenario_list.title" = "Conversations";
+"scenario.new_conversation" = "Nouvelle conversation %i";
+"scenario.me" = "Moi";
+
+/* Exportation */
+"export_options.title" = "Options d'exportation";
+"export.image.title" = "Exportation en image";
+"export_options.button.image" = "Image";
+"export_options.button.video" = "Vidéo";
+"export_options.button.coming_soon" = "BIENTÔT DISPONIBLE";
+"export.image.remove_watermark" = "Supprimer le filigrane";
+"export.image.save_camera_roll" = "Enregistrer";
+"watermark.text" = "Fait avec Discuss";
+
+/* Paramètres */
+"settings.title" = "Paramètres";
+"settings.section.contact" = "Contact";
+"settings.contact.mail" = "Email";
+"settings.contact.rate" = "Noter l'application";
+"settings.section.other" = "Autre";
+"settings.support-faq.button" = "Aide & FAQ";
+"settings.alert.no-mail-configured" = "Votre compte Mail iOS n'est pas configuré, envoyez-nous un email à [enter your email]";
+
+/* Édition de scénario */
+"scenario_edit.scenario.name.placeholder" = "Nom de la conversation";
+"scenario_edit.rename_conversation" = "Renommer la conversation";
+"scenario_edit.text_section.send_message" = "Envoyer un message";
+"scenario_edit.enter_message_prompt" = "Saisissez l'invite de message";
+"scenario_edit.from" = "De :";
+"scenario_edit.alert.delete.title" = "Supprimer la conversation ?";
+"scenario_edit.alert.delete.description" = "Cette conversation sera supprimée de l'application.";
+"scenario_edit.recipient" = "Destinataire";
+"scenario_edit.add_contact" = "Ajouter un contact";
+"scenario_edit.settings.starting_hour" = "Heure de début";
+"scenario_edit.settings.imessage_colors" = "Couleurs de iMessage";
+"scenario_edit.alert.cancel.title" = "Quitter sans enregistrer ?";
+"scenario_edit.alert.cancel.description" = "Tous les progrès non enregistrés seront perdus.";
+"scenario_edit.new_message" = "Nouveau message";
+"scenario_edit.toolbar.title" = "Modifier conversation";
+"scenario_edit.toolbar.rename" = "Renommer";
+"scenario_edit.toolbar.duplicate" = "Dupliquer";
+"scenario_edit.alert.empty_messages.title" = "Message manquant";
+"scenario_edit.alert.empty_messages.description" = "Veuillez vous assurer qu'il n'y a pas de messages vides et au moins un message avant de continuer";
+"scenario.edit.current_palette" = "Palette actuelle";
+
+/* Palette */
+"palette_picker.title" = "Choisir palette";
+
+/* Détails du contact */
+"contact_detail.title" = "Détails du contact";
+"contact_detail.button.image_edit" = "MODIFIER";
+"contact_detail.name.placeholder" = "Nom ou numéro du contact";
+"contact_detail.section.actions" = "Actions";
+"contact_detail.section.actions.import_from_phone" = "Importer depuis le téléphone";
+
+/* Divers */
+"misc.success" = "Succès";
+"misc.done" = "Terminé";
+"misc.cancel" = "Annuler";
+"misc.save" = "Enregistrer";
+"misc.share" = "Partager";
+"misc.confirm" = "Confirmer";
+"misc.cancel" = "Annuler";
+"misc.save" = "Enregistrer";
+"misc.cancel" = "Annuler";
+"misc.edit" = "Modifier";
+"misc.confirm" = "Confirmer";
+"misc.cancel" = "Annuler";
+"misc.ok" = "OK";
+"misc.back" = "Retour";
+"misc.done" = "Terminé";
+"misc.export" = "Exporter";

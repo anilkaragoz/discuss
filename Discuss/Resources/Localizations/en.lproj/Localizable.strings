@@ -1,0 +1,81 @@
+/* Scenario Preview */
+"scenario_preview.today" = "Today";
+"scenario_preview.active_now" = "Active now";
+
+/* Scenario List */
+"scenario_list.empty_state.title" = "No conversations yet";
+"scenario_list.empty_state.subtitle" = "Get started by creating your first conversation.";
+"scenario_list.empty_state.button.title" = "Create a conversation";
+"scenario_list.title" = "Conversations";
+"scenario.new_conversation" = "New conversation %i";
+"scenario.me" = "Me";
+
+
+/* Export */
+"export_options.title" = "Export options";
+"export.image.title" = "Image Export";
+"export_options.button.image" = "Image";
+"export_options.button.video" = "Video";
+"export_options.button.coming_soon" = "COMING SOON";
+"export.image.remove_watermark" = "Remove watermark";
+"export.image.save_camera_roll" = "Save to Camera Roll";
+"watermark.text" = "Made with Discuss";
+
+/* Settings */
+"settings.title" = "Settings";
+"settings.section.contact" = "Contact";
+"settings.contact.mail" = "Email";
+"settings.contact.rate" = "Rate the app";
+"settings.section.other" = "Other";
+"settings.support-faq.button" = "Support & FAQ";
+"settings.alert.no-mail-configured" = "Your iOS Mail account is not configured, send us an email at [enter your email]";
+
+/* Scenario Edit */
+"scenario_edit.scenario.name.placeholder" = "Conversation Name";
+"scenario_edit.rename_conversation" = "Rename conversation";
+"scenario_edit.text_section.send_message" = "Send message";
+"scenario_edit.enter_message_prompt" = "Enter message prompt";
+"scenario_edit.from" = "From:";
+"scenario_edit.alert.delete.title" = "Delete Conversation?";
+"scenario_edit.alert.delete.description" = "This conversation will be deleted from the app.";
+"scenario_edit.recipient" = "Recipient";
+"scenario_edit.add_contact" = "Add contact";
+"scenario_edit.settings.starting_hour" = "Starting hour";
+"scenario_edit.settings.imessage_colors" = "iMessage colors";
+"scenario_edit.alert.cancel.title" = "Exit without saving?";
+"scenario_edit.alert.cancel.description" = "Any unsaved progress will be lost.";
+"scenario_edit.new_message" = "New message";
+"scenario_edit.toolbar.title" = "Edit conversation";
+"scenario_edit.toolbar.rename" = "Rename";
+"scenario_edit.toolbar.duplicate" = "Duplicate";
+"scenario_edit.alert.empty_messages.title" = "Missing message";
+"scenario_edit.alert.empty_messages.description" = "Please make sure there are no empty messages and at least one message before continuing.";
+"scenario.edit.current_palette" = "Current Palette";
+
+/* Palette */
+"palette_picker.title" = "Select Palette";
+
+/* Contact Details */
+"contact_detail.title" = "Contact detail";
+"contact_detail.button.image_edit" = "EDIT";
+"contact_detail.name.placeholder" = "Contact name or number";
+"contact_detail.section.actions" = "Actions";
+"contact_detail.section.actions.import_from_phone" = "Import from phone";
+
+/* Misc */
+"misc.success" = "Success";
+"misc.done" = "Done";
+"misc.cancel" = "Cancel";
+"misc.save" = "Save";
+"misc.share" = "Share";
+"misc.confirm" = "Confirm";
+"misc.cancel" = "Cancel";
+"misc.save" = "Save";
+"misc.cancel" = "Cancel";
+"misc.edit" = "Edit";
+"misc.confirm" = "Confirm";
+"misc.cancel" = "Cancel";
+"misc.ok" = "OK";
+"misc.back" = "Back";
+"misc.done" = "Done";
+"misc.export" = "Export";
